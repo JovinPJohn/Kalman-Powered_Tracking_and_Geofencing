@@ -6,7 +6,7 @@ A real-time location tracking system using Kalman filtering for smoother and mor
 - Arduino Uno
 - GPS Module (NEO-6M or similar)
 - Kalman filter (Arduino/C logic or Python)
-- Optional: Firebase for cloud logging
+- Firebase for cloud logging
 
 ## 🔍 Features
 - Reduced GPS signal noise using Kalman filter
